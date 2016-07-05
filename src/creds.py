@@ -1,4 +1,3 @@
-
 import httplib2
 from httplib2 import Http
 from oauth2client.service_account import ServiceAccountCredentials
