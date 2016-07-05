@@ -1,0 +1,14 @@
+*.pyc
+lib/*
+.Python
+bin/
+include/*
+*.iml
+.idea/*
+pip-selfcheck.json
+creds.json
+settings.yml
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
